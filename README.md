@@ -5,11 +5,11 @@ This project focuses on predicting fake news using machine learning techniques. 
 
 Key steps involved:
 
-Importing and exploring the datasets.
-Preprocessing the text data to remove noise.
-Splitting the data into training and testing sets.
-Training various classification models to identify fake news.
-Evaluating the performance of these models using accuracy and classification metrics.
+1) Importing and exploring the datasets.
+2) Preprocessing the text data to remove noise.
+3) Splitting the data into training and testing sets.
+4) Training various classification models to identify fake news.
+5)Evaluating the performance of these models using accuracy and classification metrics.
 The project provides valuable insights into the characteristics of fake news and demonstrates the effectiveness of machine learning in detecting misinformation.
 
 
