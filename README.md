@@ -9,7 +9,15 @@ Key steps involved:
 2) Preprocessing the text data to remove noise.
 3) Splitting the data into training and testing sets.
 4) Training various classification models to identify fake news.
-5)Evaluating the performance of these models using accuracy and classification metrics.
-The project provides valuable insights into the characteristics of fake news and demonstrates the effectiveness of machine learning in detecting misinformation.
+5) Evaluating the performance of these models using accuracy and classification metrics.
+
+Machine Learning Models include:
+1) Logistic Regression
+2) Decision Tree
+3) Gradient Boosting
+4) Random Forest
+
+
+The project provides valuable insights into the characteristics of fake news and demonstrates the effectiveness of machine learning in detecting misinformation with 99% accuracy
 
 
